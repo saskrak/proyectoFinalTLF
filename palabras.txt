@@ -1,0 +1,25 @@
++
+-
+_variable
+_variableeeee
+variable
+variableeeee
+==
+>
+9867564
+12343.314231
+while
+if
+&&
+||
+|
+&
+"hola mundo"
+{}
+()
+;
+,
+45h
+00h
+//
+/** hola mundo **/
